@@ -1,0 +1,32 @@
+{
+  "farmers": [
+    {
+      "id": "farmer-1729145654961",
+      "name": "Budi Andi",
+      "loc": "Ngalam",
+      "phone": "08768"
+    },
+    {
+      "id": "farmer-1729145675470",
+      "name": "Indah Parawangsa",
+      "loc": "Bandung"
+    },
+    {
+      "id": "farmer-1729145687149",
+      "name": "Doni Saputra",
+      "loc": "Majalengka"
+    }
+  ],
+  "commodities": [
+    { "id": "commodity-1729145696675", "commodities": "Durian" },
+    { "id": "commodity-1729145703125", "commodities": "Apel" },
+    { "id": "commodity-1729145708740", "commodities": "Semangka" },
+    { "id": "commodity-1729145712205", "commodities": "Melon" }
+  ],
+  "farmerCommodities": [
+    {
+      "farmer_id": "farmer-1729145687149",
+      "commodity_id": "commodity-1729145696675"
+    }
+  ]
+}
